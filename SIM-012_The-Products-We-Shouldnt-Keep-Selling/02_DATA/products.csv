@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,launch_date,product_status,selling_price,unit_cost,target_customer_segment
+PRD-001,Nexora AirBeats Pro,Wireless Audio,True Wireless Earbuds,2023-04-01,Active,4999,2749,Tech Enthusiast
+PRD-002,Nexora PowerBank 20K,Mobile Accessories,Portable Charger,2023-06-01,Active,1499,1380,Value Seeker
+PRD-003,Nexora SmartTracker Tag,Smart Accessories,Item Tracker,2023-08-01,Active,2499,1199,Tech Enthusiast
+PRD-004,Nexora CableKit Pro,Mobile Accessories,Charging Cables,2023-07-01,Active,799,739,Value Seeker
+PRD-005,Nexora SoundBar Mini,Smart Home,Home Audio,2025-02-10,Active,7999,4200,Tech Enthusiast
+PRD-006,Nexora Wireless 006,Wireless Audio,Wireless Audio Sub 3,2023-07-09,Active,3947,3507,Tech Enthusiast
+PRD-007,Nexora Wireless 007,Wireless Audio,Wireless Audio Sub 3,2022-10-31,Active,19648,13952,Student
+PRD-008,Nexora Wireless 008,Wireless Audio,Wireless Audio Sub 1,2024-05-26,Active,14045,11247,Gift Buyer
+PRD-009,Nexora Wireless 009,Wireless Audio,Wireless Audio Sub 2,2024-11-20,Active,9404,7805,Tech Enthusiast
+PRD-010,Nexora Wireless 010,Wireless Audio,Wireless Audio Sub 2,2023-10-23,Active,15353,10112,Tech Enthusiast
+PRD-011,Nexora Wireless 011,Wireless Audio,Wireless Audio Sub 1,2024-11-30,Active,1800,1084,Professional
+PRD-012,Nexora Wireless 012,Wireless Audio,Wireless Audio Sub 3,2023-09-29,Active,12253,10130,Value Seeker
+PRD-013,Nexora Wireless 013,Wireless Audio,Wireless Audio Sub 3,2023-03-17,Active,17801,10180,Gift Buyer
+PRD-014,Nexora Wireless 014,Audio - Wireless,Wireless Audio Sub 3,2022-11-02,Active,2131,1698,Professional
+PRD-015,Nexora Wireless 015,Wireless Audio,Wireless Audio Sub 3,2024-07-20,Active,13263,6656,Student
+PRD-016,Nexora Wireless 016,Wireless Audio,Wireless Audio Sub 2,2023-11-13,Active,14337,7110,Tech Enthusiast
+PRD-017,Nexora Wireless 017,wireless audio,Wireless Audio Sub 3,2023-03-13,Discontinued,3891,3234,Student
+PRD-018,Nexora Wireless 018,Wireless Audio,Wireless Audio Sub 2,2022-10-12,Active,8537,3952,Gift Buyer
+PRD-019,Nexora Wireless 019,Wireless Audio,Wireless Audio Sub 2,2023-03-11,Discontinued,3954,3036,Value Seeker
+PRD-020,Nexora Wireless 020,Wireless Audio,Wireless Audio Sub 1,2024-07-02,Active,16934,8286,Value Seeker
+PRD-021,Nexora Wireless 021,Wireless Audio,Wireless Audio Sub 1,2024-03-27,Discontinued,17973,8463,Gift Buyer
+PRD-022,Nexora Wireless 022,Wireless Audio,Wireless Audio Sub 1,2024-05-03,Discontinued,8145,7118,Student
+PRD-023,Nexora Wireless 023,Wireless Audio,Wireless Audio Sub 3,2024-01-30,Active,4419,3721,Value Seeker
+PRD-024,Nexora Wireless 024,Wireless Audio,Wireless Audio Sub 3,2024-09-06,Active,17970,10065,Student
+PRD-025,Nexora Wireless 025 ,Wireless Audio,Wireless Audio Sub 3,2023-05-19,Active,15093,12761,Tech Enthusiast
+PRD-026,Nexora Wireless 026,Wireless Audio,Wireless Audio Sub 3,2022-11-02,Active,2228,1775,Student
+PRD-027,Nexora Wireless 027,Wireless Audio,Wireless Audio Sub 2,2024-05-07,Active,4634,2662,Tech Enthusiast
+PRD-028,Nexora Wireless 028,Wireless Audio,Wireless Audio Sub 3,2023-11-25,Active,14423,10681,Professional
+PRD-029,Nexora Wireless 029,Wireless Audio,Wireless Audio Sub 2,2023-01-20,Active,11417,6162,Professional
+PRD-030,Nexora Wireless 030,Wireless Audio,Wireless Audio Sub 1,2022-12-17,Active,8484,4296,Student
+PRD-031,Nexora Wireless 031,Wireless Audio,Wireless Audio Sub 1,2024-11-10,Active,782,362,Tech Enthusiast
+PRD-032,Nexora Wireless 032,Wireless Audio,Wireless Audio Sub 2,2023-11-04,Active,5693,4152,Student
+PRD-033,Nexora Wireless 033,Wireless Audio,Wireless Audio Sub 1,2023-07-31,Active,16246,13489,Tech Enthusiast
+PRD-034,Nexora Wireless 034,Audio - Wireless,Wireless Audio Sub 1,2024-02-27,Active,1942,1237,Tech Enthusiast
+PRD-035,Nexora Wireless 035,Wireless Audio,Wireless Audio Sub 3,2023-05-29,Active,19797,17211,Student
+PRD-036,Nexora Wireless 036,Wireless Audio,Wireless Audio Sub 3,2024-05-20,Active,2985,2123,Value Seeker
+PRD-037,Nexora Wireless 037,Wireless Audio,Wireless Audio Sub 1,2024-08-18,Active,9002,6498,Student
+PRD-038,Nexora Wireless 038,Wireless Audio,Wireless Audio Sub 2,2022-12-15,Active,18747,8469,Value Seeker
+PRD-039,Nexora Wireless 039,Wireless Audio,Wireless Audio Sub 3,2023-12-23,Active,12407,9575,Student
+PRD-040,Nexora Wireless 040,Wireless Audio,Wireless Audio Sub 1,2023-01-15,Active,10109,4859,Value Seeker
+PRD-041,Nexora Wireless 041,Wireless Audio,Wireless Audio Sub 2,2023-05-04,Active,9223,7131,Gift Buyer
+PRD-042,Nexora Wireless 042,Wireless Audio,Wireless Audio Sub 1,2023-12-08,Active,1963,1685,Gift Buyer
+PRD-043,Nexora Wireless 043,Wireless Audio,Wireless Audio Sub 3,2024-04-17,Discontinued,5593,3168,Student
+PRD-044,Nexora Wireless 044,wireless audio,Wireless Audio Sub 1,2024-05-19,Active,1479,775,Value Seeker
+PRD-045,Nexora Wireless 045,Wireless Audio,Wireless Audio Sub 3,2023-09-28,Active,8475,5083,Value Seeker
+PRD-046,Nexora Wireless 046 ,Wireless Audio,Wireless Audio Sub 2,2023-03-31,Active,5623,2590,Professional
+PRD-047,Nexora Wireless 047,wireless audio,Wireless Audio Sub 1,2024-12-15,Active,8430,6574,Professional
+PRD-048,Nexora Wireless 048,Wireless Audio,Wireless Audio Sub 2,2024-12-23,Active,11756,8965,Tech Enthusiast
+PRD-049,Nexora Wireless 049,Wireless Audio,Wireless Audio Sub 1,2024-03-05,Active,9445,7008,Gift Buyer
+PRD-050,Nexora Wireless 050,Wireless Audio,Wireless Audio Sub 2,2023-06-29,Active,6150,3928,Student
+PRD-051,Nexora Wireless 051,Wireless Audio,Wireless Audio Sub 3,2024-05-13,Discontinued,4088,2970,Student
+PRD-052,Nexora Wireless 052,Wireless Audio,Wireless Audio Sub 3,2022-12-11,Active,6755,4972,Gift Buyer
+PRD-053,Nexora Wireless 053,Wireless Audio,Wireless Audio Sub 1,2023-11-23,Active,16916,12870,Professional
+PRD-054,Nexora Wireless 054,Wireless Audio,Wireless Audio Sub 1,2023-08-05,Active,6001,3738,Student
+PRD-055,Nexora Wireless 055,Wireless Audio,Wireless Audio Sub 3,2023-12-27,Active,10858,7500,Tech Enthusiast
+PRD-056,Nexora Wireless 056,Wireless Audio,Wireless Audio Sub 1,2024-07-10,Active,9598,6411,Value Seeker
+PRD-057,Nexora Wireless 057,Wireless Audio,Wireless Audio Sub 1,2022-11-17,Active,6824,5689,Student
+PRD-058,Nexora Wireless 058,Wireless Audio,Wireless Audio Sub 1,2023-10-29,Active,6670,3846,Tech Enthusiast
+PRD-059,Nexora Wireless 059,Wireless Audio,Wireless Audio Sub 1,2024-09-12,Active,14230,11405,Professional
+PRD-060,Nexora Wireless 060,Wireless Audio,Wireless Audio Sub 3,2024-06-01,Active,17703,8062,Professional
+PRD-061,Nexora Wireless 061,Wireless Audio,Wireless Audio Sub 1,2023-03-12,Active,18251,12763,Gift Buyer
+PRD-062,Nexora Wireless 062,Wireless Audio,Wireless Audio Sub 2,2023-06-02,Active,17380,11851,Student
+PRD-063,Nexora Wireless 063,Wireless Audio,Wireless Audio Sub 2,2023-05-25,Active,2939,2462,Student
+PRD-064,Nexora Wireless 064,Wireless Audio,Wireless Audio Sub 3,2023-04-30,Active,15566,11097,Student
+PRD-065,Nexora Wireless 065,Wireless Audio,Wireless Audio Sub 2,2023-09-26,Active,12763,8747,Student
+PRD-066,Nexora Wireless 066,Wireless Audio,Wireless Audio Sub 3,2023-07-07,Active,7525,5119,Value Seeker
+PRD-067,Nexora Wireless 067,Wireless Audio,Wireless Audio Sub 3,2024-06-29,Active,15614,7591,Professional
+PRD-068,Nexora Wireless 068,Wireless Audio,Wireless Audio Sub 2,2023-04-05,Active,4745,2419,Professional
+PRD-069,Nexora Wireless 069,Audio - Wireless,Wireless Audio Sub 1,2023-12-06,Discontinued,9416,5287,Gift Buyer
+PRD-070,Nexora Wireless 070,Wireless Audio,Wireless Audio Sub 1,2024-12-08,Active,7646,4644,Student
+PRD-071,Nexora Wireless 071,Wireless Audio,Wireless Audio Sub 3,2024-01-28,Active,5292,4194,Gift Buyer
+PRD-072,Nexora Wireless 072,Wireless Audio,Wireless Audio Sub 2,2024-11-04,Active,5797,3636,Tech Enthusiast
+PRD-073,Nexora Wireless 073,Audio - Wireless,Wireless Audio Sub 3,2023-10-20,Active,10521,6742,Gift Buyer
+PRD-074,Nexora Wireless 074,Wireless Audio,Wireless Audio Sub 2,2024-12-24,Active,19973,10735,Tech Enthusiast
+PRD-075,Nexora Smart 075,Smart Accessories,Smart Accessories Sub 2,2022-10-13,Active,16878,10272,Professional
+PRD-076,Nexora Smart 076,Smart Accessories,Smart Accessories Sub 3,2024-10-21,Active,5312,3739,Professional
+PRD-077,Nexora Smart 077,Smart Accessories,Smart Accessories Sub 1,2024-05-29,Active,14571,7699,Professional
+PRD-078,Nexora Smart 078,Smart accessories,Smart Accessories Sub 1,2024-05-06,Active,8289,4660,Gift Buyer
+PRD-079,Nexora Smart 079,Smart Accessories,Smart Accessories Sub 1,2024-06-02,Active,8764,6545,Professional
+PRD-080,Nexora Smart 080,Smart Accessories,Smart Accessories Sub 1,2023-06-04,Active,16308,10602,Value Seeker
+PRD-081,Nexora Smart 081,Smart Accessories,Smart Accessories Sub 2,2023-08-10,Active,13550,7976,Student
+PRD-082,Nexora Smart 082,Smart Accessories,Smart Accessories Sub 1,2024-01-08,Active,11138,8260,Student
+PRD-083,Nexora Smart 083,Smart Accessories,Smart Accessories Sub 3,2024-10-26,Active,6365,5179,Tech Enthusiast
+PRD-084,Nexora Smart 084 ,Smart Accessories,Smart Accessories Sub 2,2023-10-05,Active,6659,5105,Tech Enthusiast
+PRD-085,Nexora Smart 085,Smart Accessories,Smart Accessories Sub 1,2023-02-07,Active,18431,14164,Professional
+PRD-086,Nexora Smart 086,Smart Accessories,Smart Accessories Sub 1,2023-04-07,Active,15985,11218,Professional
+PRD-087,Nexora Smart 087,Smart Accessories,Smart Accessories Sub 2,2024-07-06,Active,16412,14223,Value Seeker
+PRD-088,Nexora Smart 088,Smart Accessories,Smart Accessories Sub 3,2023-12-01,Active,4180,2712,Professional
+PRD-089,Nexora Smart 089,Smart Accessories,Smart Accessories Sub 3,2023-12-14,Active,10042,5150,Value Seeker
+PRD-090,Nexora Smart 090,Smart Accessories,Smart Accessories Sub 2,2022-12-23,Active,7213,5632,Student
+PRD-091,Nexora Smart 091,Smart Accessories,Smart Accessories Sub 1,2023-05-26,Active,15697,12069,Gift Buyer
+PRD-092,Nexora Smart 092,Smart Accessories,Smart Accessories Sub 2,2023-04-21,Active,19625,11823,Tech Enthusiast
+PRD-093,Nexora Smart 093,Smart Accessories,Smart Accessories Sub 2,2023-08-11,Active,2253,1859,Gift Buyer
+PRD-094,Nexora Smart 094,Smart Accessories,Smart Accessories Sub 2,2024-02-25,Active,13488,6417,Student
+PRD-095,Nexora Smart 095,Smart Accessories,Smart Accessories Sub 1,2023-05-23,Discontinued,8503,7553,Gift Buyer
+PRD-096,Nexora Smart 096,Smart Accessories,Smart Accessories Sub 2,2024-11-13,Active,19181,16915,Student
+PRD-097,Nexora Smart 097,Smart Accessories,Smart Accessories Sub 2,2024-02-16,Active,14582,8958,Value Seeker
+PRD-098,Nexora Smart 098,Smart Accessories,Smart Accessories Sub 3,2024-02-20,Active,11106,7938,Tech Enthusiast
+PRD-099,Nexora Smart 099,Smart Accessories,Smart Accessories Sub 1,2023-01-27,Active,10605,8339,Student
+PRD-100,Nexora Smart 100,Smart Accessories,Smart Accessories Sub 2,2023-04-11,Active,15437,11022,Value Seeker
+PRD-101,Nexora Smart 101,Smart Accessories,Smart Accessories Sub 3,2023-07-22,Active,9049,5907,Value Seeker
+PRD-102,Nexora Smart 102,Smart Accessories,Smart Accessories Sub 1,2022-10-15,Active,5488,4171,Tech Enthusiast
+PRD-103,Nexora Smart 103,Smart Accessories,Smart Accessories Sub 2,2024-10-03,Discontinued,5344,3611,Value Seeker
+PRD-104,Nexora Smart 104,Smart Accessories,Smart Accessories Sub 1,2023-10-28,Active,15266,9952,Gift Buyer
+PRD-105,Nexora Smart 105,Smart Accessories,Smart Accessories Sub 2,2024-12-15,Active,13895,10380,Student
+PRD-106,Nexora Smart 106,Smart Accessories,Smart Accessories Sub 3,2024-01-01,Active,16343,8345,Gift Buyer
+PRD-107,Nexora Smart 107,Smart Accessories,Smart Accessories Sub 1,2023-06-02,Active,6480,2972,Professional
+PRD-108,Nexora Smart 108,Smart Accessories,Smart Accessories Sub 1,2024-08-10,Active,12791,9289,Student
+PRD-109,Nexora Smart 109,Smart Accessories,Smart Accessories Sub 2,2023-12-25,Active,11177,5685,Value Seeker
+PRD-110,Nexora Smart 110,Smart Accessories,Smart Accessories Sub 2,2023-06-29,Active,2750,1894,Student
+PRD-111,Nexora Smart 111,Smart Accessories,Smart Accessories Sub 1,2024-07-03,Active,12751,6001,Value Seeker
+PRD-112,Nexora Smart 112,Smart Accessories,Smart Accessories Sub 3,2024-11-03,Active,9715,4383,Professional
+PRD-113,Nexora Smart 113,Smart Accessories,Smart Accessories Sub 2,2022-10-30,Active,5750,3379,Value Seeker
+PRD-114,Nexora Smart 114,Smart accessories,Smart Accessories Sub 3,2024-08-29,Active,17704,12650,Professional
+PRD-115,Nexora Smart 115,Smart Accessories,Smart Accessories Sub 2,2024-01-16,Discontinued,19407,16216,Student
+PRD-116,Nexora Smart 116,Smart Accessories,Smart Accessories Sub 3,2023-09-19,Active,5475,4745,Gift Buyer
+PRD-117,Nexora Smart 117,Smart Accessories,Smart Accessories Sub 2,2024-02-07,Discontinued,6826,3073,Gift Buyer
+PRD-118,Nexora Smart 118 ,Smart Accessories,Smart Accessories Sub 3,2024-08-05,Discontinued,1017,467,Student
+PRD-119,Nexora Smart 119,Smart Accessories,Smart Accessories Sub 1,2023-07-21,Active,16575,8705,Student
+PRD-120,Nexora Smart 120,Smart Accessories,Smart Accessories Sub 1,2024-10-08,Discontinued,8511,5064,Tech Enthusiast
+PRD-121,Nexora Smart 121,Smart Accessories,Smart Accessories Sub 2,2022-11-04,Active,10422,5681,Professional
+PRD-122,Nexora Smart 122,Smart Accessories,Smart Accessories Sub 2,2024-12-14,Active,6054,4901,Gift Buyer
+PRD-123,Nexora Smart 123,Smart Accessories,Smart Accessories Sub 1,2023-07-30,Active,16088,7475,Value Seeker
+PRD-124,Nexora Smart 124,SMART ACCESSORIES,Smart Accessories Sub 1,2024-04-23,Active,13321,6190,Gift Buyer
+PRD-125,Nexora Smart 125,Smart Accessories,Smart Accessories Sub 1,2024-07-15,Active,19453,14172,Student
+PRD-126,Nexora Smart 126,Smart Accessories,Smart Accessories Sub 3,2023-05-15,Active,11047,5392,Professional
+PRD-127,Nexora Smart 127,Smart Accessories,Smart Accessories Sub 3,2022-11-08,Active,4122,3450,Professional
+PRD-128,Nexora Smart 128,Smart Accessories,Smart Accessories Sub 3,2024-10-30,Active,12456,7452,Professional
+PRD-129,Nexora Smart 129,Smart accessories,Smart Accessories Sub 1,2024-06-22,Active,3543,1859,Value Seeker
+PRD-130,Nexora Smart 130,Smart Accessories,Smart Accessories Sub 1,2024-09-02,Active,12183,10420,Value Seeker
+PRD-131,Nexora Smart 131,Smart Accessories,Smart Accessories Sub 1,2024-01-09,Active,4301,2034,Gift Buyer
+PRD-132,Nexora Smart 132,Smart Accessories,Smart Accessories Sub 1,2024-12-14,Active,8280,3767,Value Seeker
+PRD-133,Nexora Smart 133 ,Smart Accessories,Smart Accessories Sub 1,2024-12-16,Discontinued,11065,6102,Student
+PRD-134,Nexora Smart 134,Smart Accessories,Smart Accessories Sub 3,2023-01-21,Active,8512,4602,Value Seeker
+PRD-135,Nexora Smart 135,Smart accessories,Smart Accessories Sub 2,2024-10-29,Active,8994,7882,Tech Enthusiast
+PRD-136,Nexora Smart 136,Smart Accessories,Smart Accessories Sub 3,2024-06-21,Active,15110,10173,Tech Enthusiast
+PRD-137,Nexora Smart 137,Smart Accessories,Smart Accessories Sub 2,2023-11-16,Active,2292,1032,Tech Enthusiast
+PRD-138,Nexora Smart 138,Smart Accessories,Smart Accessories Sub 3,2022-12-07,Active,10853,6796,Student
+PRD-139,Nexora Smart 139,Smart Accessories,Smart Accessories Sub 3,2024-03-01,Active,17684,13568,Student
+PRD-140,Nexora Smart 140,Smart Accessories,Smart Accessories Sub 3,2023-05-22,Active,7344,5188,Professional
+PRD-141,Nexora Smart 141,Smart Accessories,Smart Accessories Sub 1,2023-10-19,Active,10539,6330,Tech Enthusiast
+PRD-142,Nexora Smart 142,SMART ACCESSORIES,Smart Accessories Sub 3,2024-10-26,Active,14450,12377,Tech Enthusiast
+PRD-143,Nexora Smart 143,Smart Accessories,Smart Accessories Sub 1,2024-08-12,Discontinued,13760,10194,Student
+PRD-144,Nexora Smart 144,Smart Accessories,Smart Accessories Sub 1,2024-05-14,Active,10537,7815,Student
+PRD-145,Nexora Smart 145,Smart Accessories,Smart Accessories Sub 3,2023-07-13,Active,12343,10470,Student
+PRD-146,Nexora Smart 146,Smart Accessories,Smart Accessories Sub 3,2024-08-04,Active,1159,725,Gift Buyer
+PRD-147,Nexora Smart 147,Smart Accessories,Smart Accessories Sub 3,2023-02-24,Discontinued,11801,10588,Tech Enthusiast
+PRD-148,Nexora Smart 148,Smart Accessories,Smart Accessories Sub 2,2023-12-04,Active,17681,14201,Student
+PRD-149,Nexora Smart 149,Smart Accessories,Smart Accessories Sub 2,2022-11-23,Active,19836,17094,Professional
+PRD-150,Nexora Smart 150,Smart Accessories,Smart Accessories Sub 2,2023-11-29,Active,16213,10162,Student
+PRD-151,Nexora Smart 151,Smart Accessories,Smart Accessories Sub 1,2023-08-12,Active,16244,10767,Value Seeker
+PRD-152,Nexora Smart 152 ,Smart Accessories,Smart Accessories Sub 1,2023-07-24,Active,4795,2666,Student
+PRD-153,Nexora Smart 153,Smart Accessories,Smart Accessories Sub 1,2024-08-15,Active,7839,5290,Professional
+PRD-154,Nexora Mobile 154,Mobile Accessories,Mobile Accessories Sub 2,2024-05-12,Active,2850,1459,Tech Enthusiast
+PRD-155,Nexora Mobile 155,Mobile Accessories,Mobile Accessories Sub 2,2024-06-24,Active,10941,9000,Value Seeker
+PRD-156,Nexora Mobile 156,Mobile Accessories,Mobile Accessories Sub 1,2024-03-20,Active,14575,9255,Value Seeker
+PRD-157,Nexora Mobile 157,Mobile Accessories,Mobile Accessories Sub 2,2023-01-25,Active,2801,1877,Value Seeker
+PRD-158,Nexora Mobile 158,Mobile Accessories,Mobile Accessories Sub 3,2023-06-20,Active,8041,6864,Professional
+PRD-159,Nexora Mobile 159,Mobile Accessories,Mobile Accessories Sub 3,2024-11-17,Active,15501,8688,Student
+PRD-160,Nexora Mobile 160,Mobile Accessories,Mobile Accessories Sub 3,2024-07-04,Active,10889,5565,Gift Buyer
+PRD-161,Nexora Mobile 161,Mobile accessories,Mobile Accessories Sub 2,2024-03-03,Active,19678,17212,Tech Enthusiast
+PRD-162,Nexora Mobile 162,Mobile Accessories,Mobile Accessories Sub 1,2024-01-17,Active,19765,13278,Student
+PRD-163,Nexora Mobile 163,Mobile Accessories,Mobile Accessories Sub 2,2024-01-31,Discontinued,6467,4884,Tech Enthusiast
+PRD-164,Nexora Mobile 164,Mobile Accessories,Mobile Accessories Sub 3,2022-11-10,Active,16832,10254,Gift Buyer
+PRD-165,Nexora Mobile 165,Mobile Accessories,Mobile Accessories Sub 3,2023-11-01,Active,12516,6094,Tech Enthusiast
+PRD-166,Nexora Mobile 166,Mobile Accessories,Mobile Accessories Sub 3,2024-08-25,Active,11102,9519,Gift Buyer
+PRD-167,Nexora Mobile 167,Mobile Accessories,Mobile Accessories Sub 3,2023-02-22,Active,2969,1893,Student
+PRD-168,Nexora Mobile 168,Mobile Accessories,Mobile Accessories Sub 3,2023-10-21,Active,3075,2339,Student
+PRD-169,Nexora Mobile 169 ,Mobile Accessories,Mobile Accessories Sub 1,2023-12-08,Active,3361,2047,Professional
+PRD-170,Nexora Mobile 170,Mobile Accessories,Mobile Accessories Sub 3,2023-02-18,Active,6590,5259,Student
+PRD-171,Nexora Mobile 171,Mobile Accessories,Mobile Accessories Sub 1,2024-11-23,Active,1535,924,Student
+PRD-172,Nexora Mobile 172,Mobile Accessories,Mobile Accessories Sub 2,2022-11-14,Active,5723,3293,Professional
+PRD-173,Nexora Mobile 173,Mobile Accessories,Mobile Accessories Sub 1,2023-08-13,Active,7966,5255,Student
+PRD-174,Nexora Mobile 174,Mobile Accessories,Mobile Accessories Sub 1,2023-07-16,Active,14736,10200,Student
+PRD-175,Nexora Mobile 175,Mobile Accessories,Mobile Accessories Sub 1,2022-11-23,Active,4834,2451,Student
+PRD-176,Nexora Mobile 176,Mobile Accessories,Mobile Accessories Sub 2,2024-11-20,Active,4384,3383,Value Seeker
+PRD-177,Nexora Mobile 177,Mobile Accessories,Mobile Accessories Sub 2,2022-10-28,Discontinued,15081,7569,Gift Buyer
+PRD-178,Nexora Mobile 178,Mobile Accessories,Mobile Accessories Sub 1,2023-01-10,Active,7656,6793,Professional
+PRD-179,Nexora Mobile 179 ,Mobile accessories,Mobile Accessories Sub 1,2024-01-24,Active,4846,2706,Student
+PRD-180,Nexora Mobile 180,Mobile accessories,Mobile Accessories Sub 3,2024-12-03,Active,17593,12482,Professional
+PRD-181,Nexora Mobile 181 ,Mobile Accessories,Mobile Accessories Sub 1,2024-02-24,Active,2357,2003,Gift Buyer
+PRD-182,Nexora Mobile 182,Mobile Accessories,Mobile Accessories Sub 1,2023-09-27,Active,14364,12917,Gift Buyer
+PRD-183,Nexora Mobile 183,Mobile Accessories,Mobile Accessories Sub 2,2024-04-10,Active,2516,1184,Tech Enthusiast
+PRD-184,Nexora Mobile 184,Mobile Accessories,Mobile Accessories Sub 3,2023-06-17,Active,12976,5949,Tech Enthusiast
+PRD-185,Nexora Mobile 185,Mobile Accessories,Mobile Accessories Sub 3,2023-09-06,Active,19366,11022,Professional
+PRD-186,Nexora Mobile 186,Mobile Accessories,Mobile Accessories Sub 2,2023-02-16,Active,15979,9838,Value Seeker
+PRD-187,Nexora Mobile 187,Mobile Accessories,Mobile Accessories Sub 2,2023-08-14,Active,1672,1267,Value Seeker
+PRD-188,Nexora Mobile 188,Mobile Accessories,Mobile Accessories Sub 2,2024-12-08,Active,9674,7152,Professional
+PRD-189,Nexora Mobile 189,Mobile Accessories,Mobile Accessories Sub 2,2023-10-31,Discontinued,14708,7315,Student
+PRD-190,Nexora Mobile 190,Mobile Accessories,Mobile Accessories Sub 1,2024-10-14,Active,9038,4875,Gift Buyer
+PRD-191,Nexora Mobile 191,Mobile Accessories,Mobile Accessories Sub 1,2024-08-07,Active,3660,3162,Gift Buyer
+PRD-192,Nexora Mobile 192,Mobile Accessories,Mobile Accessories Sub 1,2023-09-27,Active,14950,13170,Professional
+PRD-193,Nexora Mobile 193,Mobile Accessories,Mobile Accessories Sub 3,2024-11-06,Active,12203,8165,Professional
+PRD-194,Nexora Mobile 194,Mobile Accessories,Mobile Accessories Sub 3,2023-05-30,Active,1439,1213,Value Seeker
+PRD-195,Nexora Mobile 195,Mobile Accessories,Mobile Accessories Sub 2,2023-10-16,Active,15042,7115,Gift Buyer
+PRD-196,Nexora Mobile 196,Mobile Accessories,Mobile Accessories Sub 3,2022-10-27,Active,8478,3965,Gift Buyer
+PRD-197,Nexora Mobile 197,Mobile Accessories,Mobile Accessories Sub 1,2024-06-18,Active,14922,11988,Tech Enthusiast
+PRD-198,Nexora Mobile 198,Mobile Accessories,Mobile Accessories Sub 2,2024-09-30,Active,15111,12425,Tech Enthusiast
+PRD-199,Nexora Mobile 199,Mobile Accessories,Mobile Accessories Sub 3,2023-08-04,Active,18321,12018,Gift Buyer
+PRD-200,Nexora Mobile 200,Mobile Accessories,Mobile Accessories Sub 2,2023-04-24,Active,16969,13559,Gift Buyer
+PRD-201,Nexora Mobile 201,Mobile accessories,Mobile Accessories Sub 3,2024-04-17,Active,15614,8405,Student
+PRD-202,Nexora Mobile 202,Mobile Accessories,Mobile Accessories Sub 2,2024-05-11,Active,13759,7620,Student
+PRD-203,Nexora Mobile 203,Mobile Accessories,Mobile Accessories Sub 1,2024-12-07,Active,11588,9759,Tech Enthusiast
+PRD-204,Nexora Mobile 204,Mobile Accessories,Mobile Accessories Sub 2,2023-08-08,Discontinued,4367,2912,Student
+PRD-205,Nexora Mobile 205,Mobile Accessories,Mobile Accessories Sub 3,2023-06-14,Active,9606,4988,Student
+PRD-206,Nexora Mobile 206,Mobile Accessories,Mobile Accessories Sub 3,2023-03-22,Active,3360,2264,Student
+PRD-207,Nexora Mobile 207,Mobile Accessories,Mobile Accessories Sub 3,2024-04-30,Active,11362,5918,Gift Buyer
+PRD-208,Nexora Mobile 208,Mobile Accessories,Mobile Accessories Sub 3,2023-12-01,Active,7206,3998,Gift Buyer
+PRD-209,Nexora Mobile 209,Mobile Accessories,Mobile Accessories Sub 1,2024-09-01,Active,16124,12734,Professional
+PRD-210,Nexora Mobile 210,Mobile Accessories,Mobile Accessories Sub 2,2024-06-13,Discontinued,15517,12540,Value Seeker
+PRD-211,Nexora Mobile 211,Mobile Accessories,Mobile Accessories Sub 1,2023-01-17,Active,12440,8313,Tech Enthusiast
+PRD-212,Nexora Mobile 212,Mobile Accessories,Mobile Accessories Sub 2,2024-06-22,Discontinued,9808,4654,Gift Buyer
+PRD-213,Nexora Mobile 213,Mobile Accessories,Mobile Accessories Sub 2,2024-02-23,Active,6519,3628,Professional
+PRD-214,Nexora Mobile 214,Mobile accessories,Mobile Accessories Sub 3,2023-06-04,Active,16861,11705,Professional
+PRD-215,Nexora Mobile 215,Mobile Accessories,Mobile Accessories Sub 2,2023-01-19,Active,9662,6362,Professional
+PRD-216,Nexora Mobile 216,Mobile Accessories,Mobile Accessories Sub 2,2023-04-18,Active,1975,1270,Gift Buyer
+PRD-217,Nexora Mobile 217,Mobile Accessories,Mobile Accessories Sub 2,2023-01-08,Active,4192,3530,Value Seeker
+PRD-218,Nexora Mobile 218,Mobile Accessories,Mobile Accessories Sub 2,2022-11-11,Active,16981,12215,Value Seeker
+PRD-219,Nexora Mobile 219,Mobile Accessories,Mobile Accessories Sub 2,2024-06-19,Active,17191,14390,Student
+PRD-220,Nexora Mobile 220,Mobile accessories,Mobile Accessories Sub 3,2024-09-25,Active,17001,11228,Professional
+PRD-221,Nexora Mobile 221,Mobile Accessories,Mobile Accessories Sub 2,2024-10-12,Discontinued,19425,14793,Student
+PRD-222,Nexora Mobile 222,Mobile Accessories,Mobile Accessories Sub 3,2022-11-22,Active,19226,15334,Professional
+PRD-223,Nexora Mobile 223,Mobile Accessories,Mobile Accessories Sub 1,2023-06-06,Active,5141,2726,Professional
+PRD-224,Nexora Mobile 224,Mobile Accessories,Mobile Accessories Sub 3,2023-04-27,Active,5261,3757,Value Seeker
+PRD-225,Nexora Mobile 225,Mobile Accessories,Mobile Accessories Sub 1,2023-08-29,Active,17295,13951,Student
+PRD-226,Nexora Mobile 226,Mobile Accessories,Mobile Accessories Sub 3,2024-08-23,Active,11516,7533,Professional
+PRD-227,Nexora Mobile 227,Mobile Accessories,Mobile Accessories Sub 2,2023-07-13,Active,6599,3096,Value Seeker
+PRD-228,Nexora Mobile 228,Mobile Accessories,Mobile Accessories Sub 2,2023-09-23,Active,16322,12361,Student
+PRD-229,Nexora Mobile 229,Mobile Accessories,Mobile Accessories Sub 2,2023-11-09,Active,12740,6330,Tech Enthusiast
+PRD-230,Nexora Mobile 230,Mobile Accessories,Mobile Accessories Sub 3,2024-08-02,Active,11648,5639,Student
+PRD-231,Nexora Mobile 231,mobile accessories,Mobile Accessories Sub 1,2024-06-22,Active,9199,7710,Tech Enthusiast
+PRD-232,Nexora Mobile 232,Mobile Accessories,Mobile Accessories Sub 3,2024-10-04,Discontinued,3582,2557,Value Seeker
+PRD-233,Nexora Mobile 233,Mobile Accessories,Mobile Accessories Sub 2,2024-01-31,Active,13632,8263,Tech Enthusiast
+PRD-234,Nexora Mobile 234,Mobile Accessories,Mobile Accessories Sub 1,2023-05-26,Active,3230,1958,Value Seeker
+PRD-235,Nexora Mobile 235,Mobile Accessories,Mobile Accessories Sub 2,2023-11-11,Active,1489,671,Tech Enthusiast
+PRD-236,Nexora Mobile 236,Mobile Accessories,Mobile Accessories Sub 3,2023-01-18,Active,10076,6493,Professional
+PRD-237,Nexora Mobile 237,Mobile Accessories,Mobile Accessories Sub 3,2024-01-23,Active,4696,2427,Gift Buyer
+PRD-238,Nexora Mobile 238,Mobile Accessories,Mobile Accessories Sub 1,2023-09-11,Active,6400,5719,Professional
+PRD-239,Nexora Mobile 239,Mobile Accessories,Mobile Accessories Sub 2,2022-12-28,Active,14313,9562,Value Seeker
+PRD-240,Nexora Mobile 240,Mobile Accessories,Mobile Accessories Sub 3,2023-05-30,Active,522,408,Tech Enthusiast
+PRD-241,Nexora Mobile 241,Mobile Accessories,Mobile Accessories Sub 1,2024-09-09,Active,8869,5373,Student
+PRD-242,Nexora Mobile 242,Mobile Accessories,Mobile Accessories Sub 1,2024-07-16,Discontinued,10489,6181,Professional
+PRD-243,Nexora Mobile 243,Mobile Accessories,Mobile Accessories Sub 3,2024-06-12,Active,5318,3697,Value Seeker
+PRD-244,Nexora Mobile 244,Mobile Accessories,Mobile Accessories Sub 3,2024-06-02,Active,8407,4992,Student
+PRD-245,Nexora Mobile 245,Mobile Accessories,Mobile Accessories Sub 1,2024-04-13,Active,3975,3467,Student
+PRD-246,Nexora Mobile 246,Mobile Accessories,Mobile Accessories Sub 2,2023-04-29,Active,14777,12526,Professional
+PRD-247,Nexora Mobile 247,Mobile Accessories,Mobile Accessories Sub 2,2024-01-11,Active,4622,3092,Professional
+PRD-248,Nexora Mobile 248,Mobile Accessories,Mobile Accessories Sub 3,2024-11-02,Active,8637,4600,Tech Enthusiast
+PRD-249,Nexora Mobile 249,Mobile Accessories,Mobile Accessories Sub 3,2024-01-27,Discontinued,2560,1167,Professional
+PRD-250,Nexora Mobile 250,Mobile Accessories,Mobile Accessories Sub 1,2023-10-27,Active,12569,5696,Student
+PRD-251,Nexora Mobile 251,Mobile Accessories,Mobile Accessories Sub 1,2023-09-22,Active,4656,2821,Value Seeker
+PRD-252,Nexora Smart 252,Smart Home,Smart Home Sub 2,2023-08-02,Active,412,230,Value Seeker
+PRD-253,Nexora Smart 253,Smart Home,Smart Home Sub 1,2023-07-10,Active,15392,11455,Professional
+PRD-254,Nexora Smart 254,Smart Home,Smart Home Sub 3,2022-12-08,Active,811,642,Value Seeker
+PRD-255,Nexora Smart 255,Smart Home,Smart Home Sub 1,2023-05-28,Active,1748,1256,Gift Buyer
+PRD-256,Nexora Smart 256,Smart Home,Smart Home Sub 2,2024-10-19,Active,7972,4248,Value Seeker
+PRD-257,Nexora Smart 257,Smart Home,Smart Home Sub 3,2023-08-04,Discontinued,17379,13912,Professional
+PRD-258,Nexora Smart 258,Smart Home,Smart Home Sub 2,2023-09-18,Active,18513,12532,Professional
+PRD-259,Nexora Smart 259,Smart Home,Smart Home Sub 2,2023-04-07,Active,5188,3969,Value Seeker
+PRD-260,Nexora Smart 260,Smart Home,Smart Home Sub 2,2024-04-28,Active,15471,7555,Value Seeker
+PRD-261,Nexora Smart 261,Smart Home,Smart Home Sub 1,2024-01-04,Active,11121,6772,Professional
+PRD-262,Nexora Smart 262,Smart Home,Smart Home Sub 1,2023-04-11,Active,1594,807,Gift Buyer
+PRD-263,Nexora Smart 263,Smart Home,Smart Home Sub 3,2022-10-16,Discontinued,10233,4802,Professional
+PRD-264,Nexora Smart 264,Smart Home,Smart Home Sub 2,2024-09-20,Active,8248,4841,Student
+PRD-265,Nexora Smart 265,Smart Home,Smart Home Sub 3,2023-10-04,Active,12071,9188,Gift Buyer
+PRD-266,Nexora Smart 266,Smart Home,Smart Home Sub 1,2023-11-28,Active,6955,5099,Student
+PRD-267,Nexora Smart 267,Smart Home,Smart Home Sub 1,2023-07-30,Active,19276,11102,Gift Buyer
+PRD-268,Nexora Smart 268,Smart Home,Smart Home Sub 1,2024-02-13,Active,8731,4858,Gift Buyer
+PRD-269,Nexora Smart 269,Smart Home,Smart Home Sub 3,2024-04-12,Discontinued,5845,4892,Student
+PRD-270,Nexora Smart 270,Smart Home,Smart Home Sub 2,2022-12-16,Active,1407,735,Value Seeker
+PRD-271,Nexora Smart 271,Smart home,Smart Home Sub 3,2022-10-10,Active,2526,1469,Tech Enthusiast
+PRD-272,NEXORA SMART 272,Smart Home,Smart Home Sub 3,2022-10-13,Discontinued,17738,11560,Tech Enthusiast
+PRD-273,Nexora Smart 273,Smart Home,Smart Home Sub 1,2024-08-21,Active,16755,8948,Value Seeker
+PRD-274,Nexora Smart 274,Smart Home,Smart Home Sub 2,2023-06-16,Discontinued,6588,4091,Professional
+PRD-275,Nexora Smart 275,Smart Home,Smart Home Sub 3,2024-09-13,Discontinued,18812,14871,Tech Enthusiast
+PRD-276,Nexora Smart 276,Smart Home,Smart Home Sub 1,2023-10-22,Active,3362,2412,Professional
+PRD-277,Nexora Smart 277,Smart Home,Smart Home Sub 3,2023-01-06,Active,11154,7198,Professional
+PRD-278,Nexora Smart 278,Smart Home,Smart Home Sub 3,2022-12-16,Active,9182,8071,Gift Buyer
+PRD-279,Nexora Smart 279,Smart Home,Smart Home Sub 1,2024-05-24,Active,812,379,Student
+PRD-280,Nexora Smart 280,Smart Home,Smart Home Sub 3,2023-11-03,Active,8178,5274,Tech Enthusiast
+PRD-281,Nexora Smart 281,Smart Home,Smart Home Sub 2,2023-09-20,Active,16708,9432,Student
+PRD-282,Nexora Smart 282,Smart Home,Smart Home Sub 2,2024-12-01,Active,19815,14296,Gift Buyer
+PRD-283,Nexora Smart 283,Smart Home,Smart Home Sub 3,2023-12-17,Active,18420,8776,Value Seeker
+PRD-284,Nexora Smart 284,Smart Home,Smart Home Sub 2,2023-03-07,Active,2707,2336,Tech Enthusiast
+PRD-285,Nexora Smart 285,Smart Home,Smart Home Sub 1,2023-08-12,Active,3297,2959,Professional
+PRD-286,Nexora Smart 286,Smart Home,Smart Home Sub 3,2023-11-22,Active,18550,12064,Gift Buyer
+PRD-287,Nexora Smart 287,Smart Home,Smart Home Sub 1,2023-11-28,Active,12922,11558,Value Seeker
+PRD-288,Nexora Smart 288,Smart home,Smart Home Sub 2,2023-07-03,Active,12774,10522,Professional
+PRD-289,Nexora Smart 289,Smart Home,Smart Home Sub 2,2023-06-10,Active,2819,2078,Gift Buyer
+PRD-290,Nexora Smart 290,Smart Home,Smart Home Sub 2,2023-09-06,Active,520,245,Student
+PRD-291,Nexora Smart 291,Smart Home,Smart Home Sub 2,2024-06-09,Discontinued,4759,3639,Gift Buyer
+PRD-292,Nexora Smart 292,Smart Home,Smart Home Sub 2,2024-12-09,Active,16388,7612,Student
+PRD-293,Nexora Smart 293,Smart home,Smart Home Sub 3,2024-04-11,Active,6846,4336,Gift Buyer
+PRD-294,Nexora Smart 294,Smart Home,Smart Home Sub 2,2024-12-23,Active,2565,1363,Value Seeker
+PRD-295,Nexora Smart 295,Smart Home,Smart Home Sub 3,2022-12-15,Active,14164,7718,Professional
+PRD-296,Nexora Smart 296,Smart Home,Smart Home Sub 1,2023-10-04,Active,18113,16002,Value Seeker
+PRD-297,Nexora Smart 297,Smart Home,Smart Home Sub 2,2024-06-19,Discontinued,11931,9844,Gift Buyer
+PRD-298,Nexora Smart 298,Smart Home,Smart Home Sub 3,2023-01-09,Active,14404,12276,Value Seeker
+PRD-299,Nexora Smart 299,Smart Home,Smart Home Sub 2,2024-01-18,Discontinued,14906,10905,Professional
+PRD-300,Nexora Smart 300,Smart Home,Smart Home Sub 2,2022-12-27,Active,3724,2856,Value Seeker
+PRD-301,Nexora Smart 301,Smart Home,Smart Home Sub 1,2024-01-31,Active,17374,11860,Tech Enthusiast
+PRD-302,Nexora Smart 302,Smart Home,Smart Home Sub 3,2024-07-25,Active,1039,538,Value Seeker
+PRD-303,Nexora Smart 303,Smart Home,Smart Home Sub 3,2024-04-26,Active,18383,15220,Professional
+PRD-304,Nexora Smart 304,Smart Home,Smart Home Sub 1,2024-06-20,Active,13261,11760,Value Seeker
+PRD-305,Nexora Smart 305,Smart Home,Smart Home Sub 1,2024-12-24,Active,9419,5288,Value Seeker
+PRD-306,Nexora Smart 306,Smart Home,Smart Home Sub 3,2024-08-17,Active,15292,12978,Professional
+PRD-307,Nexora Smart 307,Smart Home,Smart Home Sub 3,2023-09-26,Active,19533,16575,Student
+PRD-308,Nexora Smart 308,Smart Home,Smart Home Sub 2,2023-02-15,Active,19637,16924,Student
+PRD-309,Nexora Smart 309,Smart Home,Smart Home Sub 3,2023-02-19,Active,13028,9273,Value Seeker
+PRD-310,Nexora Smart 310,Smart Home,Smart Home Sub 1,2023-07-23,Active,18482,15245,Tech Enthusiast
+PRD-311,Nexora Computer 311,Computer Accessories,Computer Accessories Sub 3,2023-10-29,Active,16178,13566,Professional
+PRD-312,Nexora Computer 312,Computer Accessories,Computer Accessories Sub 2,2024-05-01,Active,16312,13453,Gift Buyer
+PRD-313,Nexora Computer 313,Computer Accessories,Computer Accessories Sub 1,2024-05-02,Active,5810,3187,Gift Buyer
+PRD-314,Nexora Computer 314,Computer Accessories,Computer Accessories Sub 2,2023-10-11,Active,18095,9581,Professional
+PRD-315,Nexora Computer 315,Computer Accessories,Computer Accessories Sub 2,2024-07-31,Active,3654,2078,Tech Enthusiast
+PRD-316,Nexora Computer 316,Computer Accessories,Computer Accessories Sub 3,2023-01-29,Active,14686,7498,Student
+PRD-317,Nexora Computer 317,Computer Accessories,Computer Accessories Sub 3,2023-02-20,Active,14329,11825,Gift Buyer
+PRD-318,Nexora Computer 318,Computer Accessories,Computer Accessories Sub 3,2023-08-28,Discontinued,19856,13056,Tech Enthusiast
+PRD-319,Nexora Computer 319,Computer Accessories,Computer Accessories Sub 3,2024-12-13,Active,4741,2212,Value Seeker
+PRD-320,Nexora Computer 320,Computer Accessories,Computer Accessories Sub 2,2023-08-26,Active,8480,7073,Gift Buyer
+PRD-321,Nexora Computer 321,Computer Accessories,Computer Accessories Sub 3,2022-12-17,Active,13872,10142,Gift Buyer
+PRD-322,Nexora Computer 322,Computer Accessories,Computer Accessories Sub 1,2023-09-01,Active,15198,7179,Professional
+PRD-323,Nexora Computer 323,Computer Accessories,Computer Accessories Sub 1,2024-12-23,Active,12037,6228,Gift Buyer
+PRD-324,Nexora Computer 324,Computer Accessories,Computer Accessories Sub 3,2024-05-14,Active,9591,7174,Tech Enthusiast
+PRD-325,NEXORA COMPUTER 325,Computer Accessories,Computer Accessories Sub 1,2024-01-14,Active,3561,2201,Tech Enthusiast
+PRD-326,Nexora Computer 326,Computer Accessories,Computer Accessories Sub 2,2024-09-05,Active,14317,11581,Gift Buyer
+PRD-327,Nexora Computer 327,Computer Accessories,Computer Accessories Sub 2,2024-08-11,Active,8503,7337,Value Seeker
+PRD-328,Nexora Computer 328,Computer Accessories,Computer Accessories Sub 3,2024-09-20,Active,14364,8690,Tech Enthusiast
+PRD-329,Nexora Computer 329,Computer Accessories,Computer Accessories Sub 1,2023-02-01,Active,563,330,Tech Enthusiast
+PRD-330,Nexora Computer 330,Computer Accessories,Computer Accessories Sub 1,2023-10-12,Active,3655,3119,Value Seeker
+PRD-331,Nexora Computer 331,Computer Accessories,Computer Accessories Sub 1,2022-10-09,Active,2540,1679,Value Seeker
+PRD-332,Nexora Computer 332,Computer Accessories,Computer Accessories Sub 1,2023-12-28,Active,13789,8587,Professional
+PRD-333,Nexora Computer 333,Computer Accessories,Computer Accessories Sub 1,2023-08-19,Active,11818,5513,Student
+PRD-334,Nexora Computer 334,Computer Accessories,Computer Accessories Sub 1,2024-09-07,Active,9635,5294,Student
+PRD-335,Nexora Computer 335,Computer Accessories,Computer Accessories Sub 1,2023-07-30,Active,6480,3651,Tech Enthusiast
+PRD-336,Nexora Computer 336,computer accessories,Computer Accessories Sub 2,2024-05-31,Active,8198,5535,Student
+PRD-337,Nexora Computer 337,Computer Accessories,Computer Accessories Sub 1,2024-08-30,Active,14089,10363,Tech Enthusiast
+PRD-338,Nexora Computer 338,Computer Accessories,Computer Accessories Sub 2,2022-11-10,Active,750,586,Student
+PRD-339,Nexora Computer 339,Computer Accessories,Computer Accessories Sub 2,2023-11-16,Active,13911,9868,Tech Enthusiast
+PRD-340,Nexora Computer 340,Computer Accessories,Computer Accessories Sub 3,2023-03-09,Active,17053,8280,Tech Enthusiast
+PRD-341,Nexora Computer 341,Computer Accessories,Computer Accessories Sub 2,2024-10-17,Active,10462,6126,Student
+PRD-342,Nexora Computer 342,Computer Accessories,Computer Accessories Sub 3,2024-10-29,Active,2102,1599,Professional
+PRD-343,Nexora Computer 343,Computer Accessories,Computer Accessories Sub 3,2024-12-10,Active,11659,7749,Gift Buyer
+PRD-344,Nexora Computer 344,Computer Accessories,Computer Accessories Sub 2,2022-10-31,Active,4167,2303,Student
+PRD-345,Nexora Computer 345,Computer Accessories,Computer Accessories Sub 2,2024-03-07,Active,2824,1911,Tech Enthusiast
+PRD-346,Nexora Computer 346,Computer Accessories,Computer Accessories Sub 1,2023-01-27,Active,19104,11398,Gift Buyer
+PRD-347,Nexora Computer 347,Computer Accessories,Computer Accessories Sub 3,2023-04-02,Active,12848,6242,Professional
+PRD-348,Nexora Computer 348,Computer Accessories,Computer Accessories Sub 3,2023-12-01,Active,7655,5780,Student
+PRD-349,Nexora Computer 349,computer accessories,Computer Accessories Sub 2,2024-03-12,Active,2024,1658,Gift Buyer
+PRD-350,NEXORA COMPUTER 350,Computer Accessories,Computer Accessories Sub 3,2024-01-11,Active,11023,9492,Student
+PRD-351,Nexora Computer 351,Computer Accessories,Computer Accessories Sub 3,2024-05-28,Discontinued,8247,5700,Value Seeker
+PRD-352,NEXORA COMPUTER 352,Computer Accessories,Computer Accessories Sub 3,2023-11-24,Active,5232,4693,Tech Enthusiast
+PRD-353,Nexora Computer 353,Computer Accessories,Computer Accessories Sub 1,2024-08-04,Active,11276,10140,Value Seeker
+PRD-354,Nexora Computer 354,Computer Accessories,Computer Accessories Sub 1,2022-12-01,Discontinued,14055,9537,Student
+PRD-355,Nexora Computer 355,Computer Accessories,Computer Accessories Sub 3,2023-10-17,Active,13834,8087,Professional
+PRD-356,Nexora Computer 356,Computer Accessories,Computer Accessories Sub 2,2022-12-03,Active,2751,1743,Professional
+PRD-357,Nexora Computer 357,Computer Accessories,Computer Accessories Sub 3,2023-07-06,Active,10989,8317,Tech Enthusiast
+PRD-358,Nexora Computer 358,Computer Accessories,Computer Accessories Sub 1,2023-08-18,Active,5685,3966,Professional
+PRD-359,Nexora Computer 359,Computer Accessories,Computer Accessories Sub 3,2023-01-01,Active,8982,4638,Value Seeker
+PRD-360,Nexora Computer 360,Computer Accessories,Computer Accessories Sub 3,2024-09-28,Active,11040,9199,Value Seeker
+PRD-361,Nexora Computer 361,Computer Accessories,Computer Accessories Sub 1,2024-01-07,Active,1317,621,Value Seeker
+PRD-362,Nexora Computer 362,Computer Accessories,Computer Accessories Sub 2,2024-12-08,Active,4278,3827,Tech Enthusiast
+PRD-363,NEXORA COMPUTER 363,computer accessories,Computer Accessories Sub 1,2022-12-16,Active,19380,12330,Gift Buyer
+PRD-364,Nexora Computer 364,Computer Accessories,Computer Accessories Sub 3,2024-01-16,Active,4313,3798,Tech Enthusiast
+PRD-365,Nexora Computer 365,Computer Accessories,Computer Accessories Sub 2,2023-03-26,Active,12840,7608,Tech Enthusiast
+PRD-366,Nexora Computer 366,computer accessories,Computer Accessories Sub 2,2024-02-23,Active,8352,5084,Value Seeker
+PRD-367,Nexora Computer 367 ,Computer Accessories,Computer Accessories Sub 3,2024-12-30,Active,17528,13810,Student
+PRD-368,Nexora Computer 368,Computer Accessories,Computer Accessories Sub 2,2024-05-02,Active,16180,12057,Tech Enthusiast
+PRD-369,Nexora Computer 369,Computer Accessories,Computer Accessories Sub 1,2024-01-27,Active,9504,8303,Value Seeker
+PRD-370,Nexora Computer 370,Computer Accessories,Computer Accessories Sub 1,2024-12-19,Active,9032,5959,Professional
+PRD-371,Nexora Computer 371,Computer Accessories,Computer Accessories Sub 3,2023-03-27,Active,11925,5713,Student
+PRD-372,Nexora Computer 372,Computer Accessories,Computer Accessories Sub 1,2023-09-26,Active,1223,713,Professional
+PRD-373,Nexora Computer 373,Computer Accessories,Computer Accessories Sub 1,2024-02-15,Active,18063,13744,Tech Enthusiast
+PRD-374,Nexora Computer 374,Computer Accessories,Computer Accessories Sub 2,2023-04-25,Active,11169,5438,Value Seeker
+PRD-375,Nexora Computer 375,Computer Accessories,Computer Accessories Sub 1,2023-02-23,Active,19521,11378,Professional
+PRD-376,Nexora Computer 376,Computer Accessories,Computer Accessories Sub 2,2023-08-06,Active,19501,16664,Professional
+PRD-377,Nexora Computer 377,Computer Accessories,Computer Accessories Sub 1,2024-04-28,Active,10695,8787,Value Seeker
+PRD-378,Nexora Computer 378,computer accessories,Computer Accessories Sub 3,2024-09-05,Active,12697,9674,Student
+PRD-379,Nexora Computer 379,Computer Accessories,Computer Accessories Sub 1,2024-06-18,Active,10726,5207,Tech Enthusiast
+PRD-380,Nexora Computer 380,Computer Accessories,Computer Accessories Sub 3,2023-08-24,Active,8097,6023,Gift Buyer
+PRD-381,Nexora Computer 381,Computer Accessories,Computer Accessories Sub 1,2023-05-03,Active,14934,13364,Tech Enthusiast
+PRD-382,Nexora Computer 382,Computer Accessories,Computer Accessories Sub 2,2023-12-04,Active,12945,9097,Professional
+PRD-383,Nexora Computer 383,Computer Accessories,Computer Accessories Sub 1,2024-12-16,Active,3622,1908,Tech Enthusiast
+PRD-384,Nexora Computer 384,Computer Accessories,Computer Accessories Sub 2,2023-06-25,Active,9962,8875,Tech Enthusiast
+PRD-385,Nexora Computer 385,Computer Accessories,Computer Accessories Sub 3,2023-01-04,Active,18224,8677,Value Seeker
+PRD-386,Nexora Computer 386,Computer Accessories,Computer Accessories Sub 3,2023-01-12,Active,14526,12046,Student
+PRD-387,Nexora Computer 387,Computer Accessories,Computer Accessories Sub 2,2023-08-01,Active,8991,5419,Gift Buyer
+PRD-388,Nexora Computer 388,Computer Accessories,Computer Accessories Sub 1,2023-07-29,Active,424,300,Value Seeker
+PRD-389,Nexora Computer 389,Computer Accessories,Computer Accessories Sub 2,2024-01-28,Active,9861,4539,Gift Buyer
+PRD-390,Nexora Computer 390,Computer Accessories,Computer Accessories Sub 2,2023-11-01,Active,3285,2007,Professional
+PRD-391,Nexora Personal 391,Personal Electronics,Personal Electronics Sub 1,2023-07-03,Active,15538,12142,Gift Buyer
+PRD-392,Nexora Personal 392,Personal Electronics,Personal Electronics Sub 3,2024-11-13,Active,18041,12875,Student
+PRD-393,Nexora Personal 393,Personal Electronics,Personal Electronics Sub 3,2023-05-30,Active,15858,10185,Student
+PRD-394,Nexora Personal 394,Personal Electronics,Personal Electronics Sub 2,2024-08-24,Active,17234,9302,Value Seeker
+PRD-395,Nexora Personal 395,Personal Electronics,Personal Electronics Sub 1,2023-02-07,Discontinued,7242,3883,Value Seeker
+PRD-396,Nexora Personal 396,Personal Electronics,Personal Electronics Sub 2,2024-10-14,Active,19797,15519,Gift Buyer
+PRD-397,Nexora Personal 397,Personal Electronics,Personal Electronics Sub 2,2022-10-13,Active,17328,12022,Value Seeker
+PRD-398,Nexora Personal 398,Personal Electronics,Personal Electronics Sub 3,2024-05-19,Active,5155,3325,Gift Buyer
+PRD-399,Nexora Personal 399,Personal Electronics,Personal Electronics Sub 2,2023-11-25,Active,17850,8995,Gift Buyer
+PRD-400,Nexora Personal 400,Personal Electronics,Personal Electronics Sub 2,2024-06-15,Active,13503,11278,Tech Enthusiast
+PRD-401,NEXORA PERSONAL 401,Personal Electronics,Personal Electronics Sub 2,2023-10-17,Active,15870,7706,Professional
+PRD-402,Nexora Personal 402,Personal Electronics,Personal Electronics Sub 2,2023-05-22,Active,3517,1626,Professional
+PRD-403,Nexora Personal 403,Personal Electronics,Personal Electronics Sub 3,2023-05-05,Active,3224,2628,Tech Enthusiast
+PRD-404,Nexora Personal 404,Personal Electronics,Personal Electronics Sub 3,2022-12-07,Active,17183,9344,Tech Enthusiast
+PRD-405,Nexora Personal 405,Personal Electronics,Personal Electronics Sub 2,2023-04-24,Active,5992,4873,Gift Buyer
+PRD-406,Nexora Personal 406,Personal Electronics,Personal Electronics Sub 1,2024-03-01,Active,12369,6548,Student
+PRD-407,Nexora Personal 407,Personal Electronics,Personal Electronics Sub 2,2024-01-29,Active,14916,12232,Tech Enthusiast
+PRD-408,Nexora Personal 408,Personal Electronics,Personal Electronics Sub 1,2022-11-20,Active,9640,8556,Value Seeker
+PRD-409,NEXORA PERSONAL 409,Personal Electronics,Personal Electronics Sub 3,2024-03-09,Active,9116,5531,Value Seeker
+PRD-410,Nexora Personal 410,Personal Electronics,Personal Electronics Sub 3,2022-10-09,Discontinued,5974,3760,Gift Buyer
+PRD-411,Nexora Personal 411,Personal Electronics,Personal Electronics Sub 3,2023-09-23,Active,14186,7050,Professional
+PRD-412,Nexora Personal 412,Personal Electronics,Personal Electronics Sub 3,2024-03-07,Active,19451,16610,Student
+PRD-413,Nexora Personal 413,Personal Electronics,Personal Electronics Sub 2,2023-01-19,Active,9561,7320,Gift Buyer
+PRD-414,Nexora Personal 414,Personal Electronics,Personal Electronics Sub 3,2024-03-13,Active,10089,8224,Gift Buyer
+PRD-415,Nexora Personal 415,Personal Electronics,Personal Electronics Sub 2,2024-08-02,Active,4884,2810,Tech Enthusiast
+PRD-416,Nexora Personal 416,Personal Electronics,Personal Electronics Sub 3,2024-05-08,Active,19403,11280,Professional
+PRD-417,Nexora Personal 417,Personal Electronics,Personal Electronics Sub 1,2023-03-24,Active,12046,8091,Gift Buyer
+PRD-418,Nexora Personal 418,Personal Electronics,Personal Electronics Sub 1,2023-04-06,Active,18617,10363,Gift Buyer
+PRD-419,Nexora Personal 419,Personal Electronics,Personal Electronics Sub 1,2023-09-05,Active,14077,7677,Student
+PRD-420,Nexora Personal 420,Personal Electronics,Personal Electronics Sub 3,2022-12-12,Active,19314,9175,Gift Buyer
+PRD-421,Nexora Personal 421,Personal Electronics,Personal Electronics Sub 3,2023-03-04,Active,13835,12114,Professional
+PRD-422,Nexora Personal 422,Personal Electronics,Personal Electronics Sub 1,2024-10-02,Active,4992,3782,Tech Enthusiast
+PRD-423,Nexora Personal 423,Personal Electronics,Personal Electronics Sub 2,2023-05-03,Active,453,315,Tech Enthusiast
+PRD-424,Nexora Personal 424,Personal Electronics,Personal Electronics Sub 1,2024-07-10,Active,4539,2829,Value Seeker
+PRD-425,Nexora Personal 425,Personal Electronics,Personal Electronics Sub 3,2023-08-26,Active,12524,5917,Value Seeker
+PRD-426,Nexora Personal 426,Personal Electronics,Personal Electronics Sub 1,2023-01-14,Active,11582,8797,Gift Buyer
+PRD-427,Nexora Personal 427,Personal Electronics,Personal Electronics Sub 1,2024-06-02,Active,15238,8723,Professional
+PRD-428,Nexora Personal 428,Personal Electronics,Personal Electronics Sub 1,2023-03-18,Active,12070,6788,Value Seeker
+PRD-429,Nexora Personal 429,Personal Electronics,Personal Electronics Sub 1,2024-05-26,Active,7219,4112,Gift Buyer
+PRD-430,Nexora Personal 430,Personal Electronics,Personal Electronics Sub 1,2024-05-31,Active,17821,11041,Tech Enthusiast
+PRD-431,Nexora Personal 431,Personal Electronics,Personal Electronics Sub 3,2023-02-04,Active,13955,9769,Tech Enthusiast
+PRD-432,Nexora Personal 432,Personal Electronics,Personal Electronics Sub 1,2023-01-12,Active,10165,7223,Tech Enthusiast
+PRD-433,Nexora Personal 433,Personal Electronics,Personal Electronics Sub 3,2023-01-29,Active,17062,9837,Gift Buyer
+PRD-434,Nexora Personal 434,Personal electronics,Personal Electronics Sub 1,2023-10-02,Active,17441,8059,Professional
+PRD-435,Nexora Personal 435,Personal Electronics,Personal Electronics Sub 3,2022-10-14,Active,11132,8844,Tech Enthusiast
+PRD-436,Nexora Personal 436,Personal Electronics,Personal Electronics Sub 2,2024-10-10,Active,17066,14783,Tech Enthusiast
+PRD-437,Nexora Personal 437,Personal Electronics,Personal Electronics Sub 2,2022-11-10,Active,3569,1906,Tech Enthusiast
+PRD-438,Nexora Personal 438,Personal Electronics,Personal Electronics Sub 2,2023-02-19,Discontinued,1802,1613,Gift Buyer
+PRD-439,Nexora Personal 439,Personal Electronics,Personal Electronics Sub 2,2023-09-16,Active,3344,2448,Professional
+PRD-440,Nexora Personal 440,Personal Electronics,Personal Electronics Sub 1,2024-12-25,Active,14118,8584,Student
+PRD-441,Nexora Personal 441,Personal Electronics,Personal Electronics Sub 3,2024-08-25,Active,16115,8685,Value Seeker
+PRD-442,Nexora Personal 442,Personal electronics,Personal Electronics Sub 1,2023-01-24,Active,16128,7835,Student
+PRD-443,Nexora Personal 443,Personal Electronics,Personal Electronics Sub 3,2023-05-18,Active,19194,11023,Student
+PRD-444,Nexora Personal 444,Personal Electronics,Personal Electronics Sub 2,2024-10-14,Active,3419,2411,Student
+PRD-445,Nexora Personal 445,Personal Electronics,Personal Electronics Sub 1,2023-03-10,Active,2087,1867,Professional
+PRD-446,Nexora Personal 446,Personal Electronics,Personal Electronics Sub 2,2023-07-12,Active,10805,8553,Tech Enthusiast
+PRD-447,Nexora Personal 447,Personal Electronics,Personal Electronics Sub 1,2024-05-09,Discontinued,15342,10741,Tech Enthusiast
+PRD-448,Nexora Personal 448 ,Personal Electronics,Personal Electronics Sub 3,2022-11-06,Discontinued,3662,2630,Gift Buyer
+PRD-449,Nexora Personal 449,Personal Electronics,Personal Electronics Sub 1,2024-08-01,Active,16956,10969,Professional
+PRD-450,Nexora Personal 450,Personal Electronics,Personal Electronics Sub 2,2024-06-26,Active,11177,7241,Value Seeker
+PRD-451,Nexora Wearables 451,Wearables,Wearables Sub 3,2024-07-10,Active,370,276,Value Seeker
+PRD-452,Nexora Wearables 452,Wearables,Wearables Sub 1,2024-10-04,Active,16434,13751,Professional
+PRD-453,Nexora Wearables 453,Wearables,Wearables Sub 1,2024-12-09,Discontinued,7363,5112,Student
+PRD-454,Nexora Wearables 454,Wearables,Wearables Sub 2,2024-01-05,Active,4336,2395,Tech Enthusiast
+PRD-455,Nexora Wearables 455,Wearables,Wearables Sub 1,2024-05-22,Active,18427,8828,Value Seeker
+PRD-456,Nexora Wearables 456,Wearables,Wearables Sub 2,2024-08-04,Active,4505,3844,Student
+PRD-457,Nexora Wearables 457,Wearables,Wearables Sub 2,2023-09-17,Active,8433,6551,Student
+PRD-458,Nexora Wearables 458,Wearables,Wearables Sub 3,2024-04-13,Active,10093,5254,Value Seeker
+PRD-459,Nexora Wearables 459,Wearables,Wearables Sub 1,2024-08-19,Active,9820,5803,Gift Buyer
+PRD-460,Nexora Wearables 460,Wearables,Wearables Sub 2,2024-04-28,Active,4080,2275,Student
+PRD-461,Nexora Wearables 461,Wearables,Wearables Sub 1,2023-12-07,Active,9668,4883,Value Seeker
+PRD-462,Nexora Wearables 462,Wearables,Wearables Sub 1,2023-03-14,Active,9047,5088,Gift Buyer
+PRD-463,Nexora Wearables 463,Wearables,Wearables Sub 3,2022-11-03,Active,6983,3916,Value Seeker
+PRD-464,Nexora Wearables 464,Wearables,Wearables Sub 3,2024-03-07,Active,18690,13550,Professional
+PRD-465,Nexora Wearables 465,Wearables,Wearables Sub 1,2024-12-16,Active,12998,9261,Value Seeker
+PRD-466,Nexora Wearables 466,Wearables,Wearables Sub 3,2024-07-10,Active,14817,7801,Value Seeker
+PRD-467,Nexora Wearables 467,Wearables,Wearables Sub 3,2023-03-31,Active,6639,5096,Professional
+PRD-468,Nexora Wearables 468,Wearables,Wearables Sub 1,2024-04-22,Active,1630,1152,Value Seeker
+PRD-469,Nexora Wearables 469,Wearables,Wearables Sub 3,2023-08-27,Active,1607,1335,Student
+PRD-470,Nexora Wearables 470,Wearables,Wearables Sub 3,2024-12-11,Active,18326,13540,Student
+PRD-471,Nexora Wearables 471,Wearables,Wearables Sub 3,2024-04-02,Active,5521,3935,Gift Buyer
+PRD-472,Nexora Wearables 472,Wearables,Wearables Sub 3,2024-11-09,Active,9918,7951,Gift Buyer
+PRD-473,Nexora Wearables 473,Wearables,Wearables Sub 3,2024-07-19,Active,14902,11800,Professional
+PRD-474,Nexora Wearables 474 ,Wearables,Wearables Sub 2,2024-04-06,Active,4014,2915,Student
+PRD-475,Nexora Wearables 475,Wearables,Wearables Sub 1,2023-07-31,Active,14899,10145,Student
+PRD-476,Nexora Wearables 476,Wearables,Wearables Sub 3,2022-12-07,Active,17771,15935,Tech Enthusiast
+PRD-477,Nexora Wearables 477,Wearables,Wearables Sub 1,2024-09-19,Active,7035,4629,Value Seeker
+PRD-478,Nexora Wearables 478,Wearables,Wearables Sub 2,2023-09-05,Active,1077,746,Student
+PRD-479,Nexora Wearables 479,Wearables,Wearables Sub 1,2023-11-22,Active,7758,3801,Tech Enthusiast
+PRD-480,Nexora Wearables 480,Wearables,Wearables Sub 3,2024-10-07,Active,17824,15994,Gift Buyer
+PRD-481,Nexora Wearables 481,Wearables,Wearables Sub 2,2024-12-14,Active,16775,14296,Tech Enthusiast
+PRD-482,Nexora Wearables 482,Wearables,Wearables Sub 3,2023-05-14,Active,15830,13133,Value Seeker
+PRD-483,Nexora Wearables 483,Wearables,Wearables Sub 1,2024-12-23,Active,10065,5990,Student
+PRD-484,Nexora Wearables 484,Wearables,Wearables Sub 1,2022-10-06,Active,4931,4164,Gift Buyer
+PRD-485,Nexora Wearables 485,Wearables,Wearables Sub 3,2024-07-23,Active,7237,5169,Value Seeker
+PRD-486,Nexora Wearables 486,Wearables,Wearables Sub 3,2024-12-27,Active,4054,3317,Student
+PRD-487,Nexora Wearables 487,Wearables,Wearables Sub 2,2022-12-08,Active,2695,2073,Value Seeker
+PRD-488,Nexora Wearables 488,Wearables,Wearables Sub 3,2022-12-11,Active,3577,2760,Student
+PRD-489,Nexora Wearables 489,Wearables,Wearables Sub 2,2023-10-09,Active,5292,3415,Value Seeker
+PRD-490,Nexora Wearables 490,Wearables,Wearables Sub 2,2023-10-04,Active,14589,11313,Gift Buyer
+PRD-491,Nexora Wearables 491,Wearables,Wearables Sub 1,2023-03-29,Active,16256,10594,Value Seeker
+PRD-492,Nexora Wearables 492,Wearables,Wearables Sub 3,2024-07-03,Active,8924,5085,Student
+PRD-493,Nexora Wearables 493,Wearables,Wearables Sub 3,2024-04-17,Active,7270,3578,Gift Buyer
+PRD-494,Nexora Wearables 494,Wearables,Wearables Sub 3,2024-11-29,Active,13160,10521,Professional
+PRD-495,Nexora Wearables 495,Wearables,Wearables Sub 3,2024-08-09,Active,12222,8237,Student
+PRD-496,Nexora Wearables 496,Wearables,Wearables Sub 1,2023-04-02,Active,4898,3424,Professional
+PRD-497,Nexora Wearables 497,Wearables,Wearables Sub 1,2024-11-18,Active,12056,10631,Student
+PRD-498,Nexora Wearables 498,Wearables,Wearables Sub 1,2024-01-09,Active,12136,8802,Student
+PRD-499,Nexora Wearables 499,Wearables,Wearables Sub 2,2023-06-27,Active,9260,4855,Tech Enthusiast
+PRD-500,Nexora Wearables 500,Wearables,Wearables Sub 2,2023-05-17,Active,17229,13555,Student
